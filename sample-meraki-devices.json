@@ -10,7 +10,7 @@
   "networkId": "L_11111111111111111122",
   "name": "PLE-MRK-MX68-01",
   "model": "MX68",
-  "firmware": "wired-15-39",
+  "firmware": "wired-15-38",
   "floorPlanId": null
 }, {
   "lat": 11.11111,
@@ -54,7 +54,7 @@
   "address": "111 AnyStreet Road, Pleasantville, OH 11111",
   "serial": "QQQQ-QQQQ-QQQO",
   "mac": "11:aa:11:22:bb:23",
-  "lanIp": "192.168.0.6",
+  "lanIp": "192.168.0.11",
   "networkId": "L_11111111111111111122",
   "name": "PLE-MRK-MR32-01",
   "model": "MR32",
