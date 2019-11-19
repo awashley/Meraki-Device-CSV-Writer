@@ -13,7 +13,7 @@ Files will and should be in the directory that you are in when the python comman
 
 # Example
 
-python3 My_Meraki_Devices.json My_Devices.CSV
+python3 CSV-Device-writer.py My_Meraki_Devices.json My_Devices.CSV
 
 # Limitations
 
