@@ -17,4 +17,5 @@ python3 My_Meraki_Devices.json My_Devices.CSV
 
 # Limitations
 
-Some columns will be off depending if the Meraki environment has MX devices or environment
+Some columns will be off depending if the Meraki environment has a mix of devices including MX devices
+I have not used this code for anything except MX, MS and MR devices. Other device columns may have issues as well
